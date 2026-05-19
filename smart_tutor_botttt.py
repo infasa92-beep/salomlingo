@@ -26,7 +26,7 @@ import anthropic
 from gtts import gTTS
 
 # ==================== SOZLAMALAR ====================
-BOT_TOKEN = ""       # @BotFather dan oling
+BOT_TOKEN = "8782375769:AAGfCWeRtm31efGu15f4O2PV83AyUyl0wDk"       # @BotFather dan oling
 ANTHROPIC_API_KEY = "" # console.anthropic.com dan oling
 
 # Onboarding bosqichlari
